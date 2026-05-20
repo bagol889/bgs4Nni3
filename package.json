@@ -1,0 +1,17 @@
+{
+  "name": "birthday-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Elegant birthday website",
+  "scripts": {
+    "dev": "serve .",
+    "start": "serve .",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
